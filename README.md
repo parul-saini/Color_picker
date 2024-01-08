@@ -1,0 +1,8 @@
+At the early stages of my journey into web development, I undertook a Color Picker project to hone my skills in HTML, CSS, and JavaScript. This project aimed to create a user-friendly interface that allows users to select and visualize colors effortlessly. Leveraging HTML for structuring the elements, CSS for styling, and JavaScript for dynamic functionality, I implemented a color palette with an intuitive user interface.
+The primary goal is to allow users to select colors visually according to RGB values display on screen.
+
+The Color Picker project facilitated my understanding of event handling, DOM manipulation, and the use of various CSS styles to enhance the visual appeal. Through this hands-on experience, I gained proficiency in managing user interactions, dynamically updating the UI, and creating a responsive design that adapts to different devices.
+
+This project not only provided hands-on experience in structuring HTML documents, styling with CSS, and implementing interactivity with JavaScript but also allowed me to grasp the importance of user experience in web development. As a foundational project, the color picker served as an excellent introduction to these technologies, paving the way for more complex projects in my learning journey.
+
+Overall, the Color Picker project served as a valuable stepping stone in my learning journey, providing practical insights into the application of HTML, CSS, and JavaScript in creating interactive and visually appealing web applications.<img width="960" alt="colorpicker" src="https://github.com/parul-saini/Color_picker/assets/97037135/d6713a09-79bd-45c3-9ff8-f2b9e8313bf1">
