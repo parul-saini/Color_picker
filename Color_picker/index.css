@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: palevioletred;
+    background: black;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#color-code{
+    margin: 10px;
+    text-align: center;
+}
+
+
+#color-container{
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#color-container > div >div{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+}
+#color-container > div{
+    padding: 7px;
+    box-sizing: border-box;
+    border: 7px solid transparent;
+}
+#color-container > div:hover{
+    border: 7px solid;
+    border-radius: 50%;
+}
+
+#result{
+    margin: 10px;
+}
+
+
+
+
+
+
